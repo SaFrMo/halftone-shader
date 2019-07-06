@@ -1,0 +1,13 @@
+{
+  "name": "halftone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "shader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "cd vue && npm run serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
